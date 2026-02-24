@@ -9,7 +9,9 @@
 ### 2.2. Linux Commands
 ### 2.3 Bash Script
 ##
-## 3. Library Preparation for Target Sequencing
+## 3. Introduction to Cancer Genomics
+### 3.1 [Introduction to The Cancer Genome Atlas Database (TCGA)](https://www.cbioportal.org/)
+### 3.2 Library Preparation for Target Sequencing
 ##
 ## 4. Upstream Analysis for Target Sequencing to detect germline variant
 ### 4.1. Raw Data processing (Quality control, trimming & filtering)
