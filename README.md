@@ -10,7 +10,7 @@
 ### 2.3 Bash Script
 ##
 ## 3. Introduction to Cancer Genomics
-### 3.1 [Introduction to The Cancer Genome Atlas Database (TCGA)](https://www.cbioportal.org/)
+### 3.1 Introduction to The Cancer Genome Atlas Database (TCGA) via [cBioPortal](https://www.cbioportal.org/)
 ### 3.2 Library Preparation for Target Sequencing
 ##
 ## 4. Upstream Analysis for Target Sequencing to detect germline variant
