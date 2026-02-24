@@ -1,4 +1,8 @@
 # Introduction To Cancer Genomic Analysis with Next Generation Sequencing (NGS)
+### Requirement: 
+#### Students with basic biology and molecular biology
+#### Laptop with either Windows/MacOS/Ubuntu
+#### Good Internet available
 #
 ## 1. Introduction to Next Generation Sequencing (NGS), Human Genome and related Databases
 ### 1.1. [UCSC Genome Browser](https://genome.ucsc.edu/)
@@ -8,6 +12,7 @@
 ### 2.1. Linux Operating System
 ### 2.2. Linux Commands
 ### 2.3. Bash Script
+### 2.4. Google Colab
 ##
 ## 3. DNA amplification for enrichment
 ### 3.1. PCR and Primer/Probe Design
