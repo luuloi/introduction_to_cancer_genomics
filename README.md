@@ -2,7 +2,7 @@
 ### Requirement: 
 #### - Students with basic biology and molecular biology
 #### - Laptop (Storage 10GB available and 8GB RAM) with either Windows/MacOS/Ubuntu Operating System
-#### - Good Internet available
+#### - Good internet wifi available
 #
 ## 1. Introduction to Next Generation Sequencing (NGS), Human Genome and related Databases
 ### 1.1. [UCSC Genome Browser](https://genome.ucsc.edu/)
