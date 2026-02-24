@@ -1,7 +1,7 @@
 # Introduction To Cancer Genomic Analysis with Next Generation Sequencing (NGS)
 ### Requirement: 
 #### - Students with basic biology and molecular biology
-#### - Laptop with either Windows/MacOS/Ubuntu
+#### - Laptop (Storage 10GB available and 8GB RAM) with either Windows/MacOS/Ubuntu Operating System
 #### - Good Internet available
 #
 ## 1. Introduction to Next Generation Sequencing (NGS), Human Genome and related Databases
