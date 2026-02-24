@@ -28,7 +28,7 @@
 ##
 ## 7. Variant Interpretation and Genetic counseling
 ### 7.1. Double-check pathogenic variants with Sanger sequencing
-### 7.2. Variant Interpretation
+### 7.2. Clinvar Database and Variant Interpretation following ACMG 2015
 ### 7.3. Genetic counseling
 ##
 ## 8. Discussion and Summary: Somatic Variant detection using 
