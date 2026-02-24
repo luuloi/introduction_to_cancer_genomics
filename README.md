@@ -9,10 +9,11 @@
 ### 2.2. Linux Commands
 ### 2.3. Bash Script
 ##
-## 3. DNA amplification for 
+## 3. DNA amplification for enrichment
 ### 3.1. PCR and Primer/Probe Design
 ### 3.2. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-
+### 3.3. [PSI-BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&PROGRAM=blastp&BLAST_PROGRAMS=psiBlast)
+##
 ## 4. Introduction to Cancer Genomics
 ### 4.1. Introduction to The Cancer Genome Atlas Database (TCGA) via [cBioPortal](https://www.cbioportal.org/)
 ### 4.2. Library Preparation for Target Sequencing
