@@ -7,20 +7,31 @@
 ## 2. Operating System and Programming Language
 ### 2.1. Linux Operating System
 ### 2.2. Linux Commands
-### 2.3 Bash Script
+### 2.3. Bash Script
 ##
-## 3. Introduction to Cancer Genomics
-### 3.1 Introduction to The Cancer Genome Atlas Database (TCGA) via [cBioPortal](https://www.cbioportal.org/)
-### 3.2 Library Preparation for Target Sequencing
+## 3. DNA amplification for 
+### 3.1. PCR and Primer/Probe Design
+### 3.2. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
+## 4. Introduction to Cancer Genomics
+### 4.1. Introduction to The Cancer Genome Atlas Database (TCGA) via [cBioPortal](https://www.cbioportal.org/)
+### 4.2. Library Preparation for Target Sequencing
 ##
-## 4. Upstream Analysis for Target Sequencing to detect germline variant
-### 4.1. Raw Data processing (Quality control, trimming & filtering)
-### 4.2. Sequence Alignment (Mapping)
+## 5. Upstream Analysis for Target Sequencing to detect germline variant
+### 5.1. Raw Data processing (Quality control, trimming & filtering)
+### 5.2. Sequence Alignment (Mapping)
 ##
-## 5. Downstream Analysis for Target Sequencing to detect germline variant
-### 5.1. Variant calling and Filtering
-### 5.2 Variant annotation
-### 5.3 Variant Interpretation
+## 6. Downstream Analysis for Target Sequencing to detect germline variant
+### 6.1. Variant calling and Filtering
+### 6.2. Variant annotation
 ##
-## 6. Discussion and Summary: Somatic Variant detection uisng tissue/FFPE and circular tumor DNA (ctDNA)
+## 7. Variant Interpretation and Genetic counseling
+### 7.1. Double-check pathogenic variants with Sanger sequencing
+### 7.2. Variant Interpretation
+### 7.3. Genetic counseling
+##
+## 8. Discussion and Summary: Somatic Variant detection using 
+### 8.1. Tissue/FFPE 
+### 8.2. Circular tumor DNA (ctDNA)
+##
 
