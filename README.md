@@ -15,8 +15,9 @@
 ### 2.2. Linux Commands
 ### 2.3. Bash Script
 ### 2.4. Google Colab
-### 2.5. Lab Practice
-### 2.6. Homework
+### 2.5. Github
+### 2.6. Lab Practice
+### 2.7. Homework
 ##
 ## 3. DNA amplification for enrichment
 ### 3.1. Nucleotide and Protein Database
