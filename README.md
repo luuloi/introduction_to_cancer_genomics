@@ -15,9 +15,10 @@
 ### 2.4. Google Colab
 ##
 ## 3. DNA amplification for enrichment
-### 3.1. PCR and Primer/Probe Design
+### 3.1. Nucleotide and Protein Database
 ### 3.2. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 ### 3.3. [PSI-BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&PROGRAM=blastp&BLAST_PROGRAMS=psiBlast)
+### 3.4. PCR and Primer/Probe Design
 ##
 ## 4. Introduction to Cancer Genomics
 ### 4.1. Introduction to The Cancer Genome Atlas Database (TCGA) via [cBioPortal](https://www.cbioportal.org/)
